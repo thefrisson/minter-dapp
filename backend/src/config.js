@@ -7,23 +7,348 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "YOUR COLLECTION NAME";
-const description = "Remember to replace this description";
+const namePrefix = "Blockchain OG";
+const description = "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 8,
     layersOrder: [
+      { name: "Strain" },
       { name: "Background" },
-      { name: "Eyeball" },
-      { name: "Eye color" },
-      { name: "Iris" },
-      { name: "Shine" },
-      { name: "Bottom lid" },
-      { name: "Top lid" },
+      { name: "Alaskan Thunderfuck Type" },
+      { name: "Alaskan Thunderfuck Potency" }
     ],
+  }, {
+    growEditionSizeTo: 18,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Apple Fritter Type" },
+      { name: "Apple Fritter Potency" }
+    ],
+  }, {
+    growEditionSizeTo: 26,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Biscotti Type" },
+      { name: "Biscotti Potency" }
+    ],
+  }, {
+    growEditionSizeTo: 39,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Blue Dream Type" },
+      { name: "Blue Dream Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 50,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Blue Dream 2 Type" },
+      { name: "Blue Dream 2 Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 60,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Blueberry Type" },
+      { name: "Blueberry Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 70,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Bubba Kush Type" },
+      { name: "Bubba Kush Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 80,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Bubble Gum Type" },
+      { name: "Bubble Gum Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 90,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Dosidos Type" },
+      { name: "Dosidos Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 100,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Cherry Pie 2 Type" },
+      { name: "Cherry Pie 2 Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 110,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Durban Poison Type" },
+      { name: "Durban Poison Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 120,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Dutch Treat Type" },
+      { name: "Dutch Treat Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 130,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Cherry Pie Type" },
+      { name: "Cherry Pie Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 140,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "GG4 Type" },
+      { name: "GG4 Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 150,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Girl Scout Cookies Type" },
+      { name: "Girl Scout Cookies Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 160,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Gods Gift Type" },
+      { name: "Gods Gift Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 170,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Gorilla Glue Type" },
+      { name: "Gorilla Glue Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 180,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Gorilla Glue 2 Type" },
+      { name: "Gorilla Glue 2 Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 190,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Gorilla Glue Special Yellow Type" },
+      { name: "Gorilla Glue Special Yellow Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 200,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Green Crack Type" },
+      { name: "Green Crack Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 210,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Green Crack 2 Type" },
+      { name: "Green Crack 2 Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 220,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Gushers Type" },
+      { name: "Gushers Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 230,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Jack Herer Type" },
+      { name: "Jack Herer Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 240,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Miracle Alien Cookies Type" },
+      { name: "Miracle Alien Cookies Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 250,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Mendo Purps Type" },
+      { name: "Mendo Purps Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 260,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Mendocino Purps Type" },
+      { name: "Mendocino Purps Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 270,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Northern Lights Type" },
+      { name: "Northern Lights Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 280,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "OG Kush Type" },
+      { name: "OG Kush Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 290,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "OG Kush 2 Type" },
+      { name: "OG Kush 2 Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 300,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Purple Punch Type" },
+      { name: "Purple Punch Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 310,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Runtz Type" },
+      { name: "Runtz Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 320,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Skunk 1 Type" },
+      { name: "Skunk 1 Potency"}
+    ]
+  }, {
+    growEditionSizeTo: 330,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "SFV OG Type" },
+      { name: "SFV OG Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 340,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Sour Diesel Type" },
+      { name: "Sour Diesel Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 350,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Sour Diesel 2 Type" },
+      { name: "Sour Diesel 2 Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 360,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Super Lemon Haze Type" },
+      { name: "Super Lemon Haze Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 370,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Silver Haze Type" },
+      { name: "Silver Haze Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 380,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Thin Mint GSC Type" },
+      { name: "Thin Mint GSC Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 390,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Wedding Cake Type" },
+      { name: "Wedding Cake Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 400,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Wedding Cake Special 420 Type" },
+      { name: "Wedding Cake Special 420 Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 410,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Zkittlez Type" },
+      { name: "Zkittlez Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 420,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Chemdawg Type" },
+      { name: "Chemdawg Potency" }
+    ]
   },
 ];
 
@@ -32,13 +357,13 @@ const shuffleLayerConfigurations = true;
 const debugLogs = false;
 
 const format = {
-  width: 512,
-  height: 512,
+  width: 2048,
+  height: 2048,
   smoothing: false,
 };
 
 const extraMetadata = {
-  external_url: "https://codecats.xyz", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://blockchainog.art", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
@@ -49,24 +374,24 @@ const LIMIT = 2; // Your API key rate limit
 const CHAIN = 'rinkeby'; // only rinkeby or polygon
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
-const CONTRACT_NAME = 'CRYPTOPUNKS';
-const CONTRACT_SYMBOL = 'CP';
+const CONTRACT_NAME = 'Blockchain OG';
+const CONTRACT_SYMBOL = 'BOG';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
-const OWNER_ADDRESS = 'YOUR WALLET ADDRESS HERE';
-const TREASURY_ADDRESS = 'YOUR WALLET ADDRESS HERE';
-const MAX_SUPPLY = 5000; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
-const MINT_PRICE = 1; // Minting price per NFT. Rinkeby = ETH, Polygon = MATIC. CANNOT BE UPDATED!
+const OWNER_ADDRESS = '0xf5c8a5c5A6648f243f0c0A2704f0dc3C820B7180';
+const TREASURY_ADDRESS = '0xf5c8a5c5A6648f243f0c0A2704f0dc3C820B7180';
+const MAX_SUPPLY = 4200; //Matic: 420000000; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
+const MINT_PRICE = 0.001; //Matic: 42.0; // Minting price per NFT. Rinkeby = ETH, Polygon = MATIC. CANNOT BE UPDATED!
 const TOKENS_PER_MINT = 10; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
 // REQUIRED CONTRACT DETAILS THAT CAN BE UPDATED LATER.
-const PUBLIC_MINT_START_DATE = "2022-03-20T11:30:48+00:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
+const PUBLIC_MINT_START_DATE = "2022-04-20T16:20:42-05:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
 
 // OPTIONAL CONTRACT DETAILS THAT CAN BE UPDATED LATER.
 const PRESALE_MINT_START_DATE = null; // Optional. Eg: 2022-02-08T11:30:48+00:00
 const ROYALTY_SHARE = 1000; // Percentage of the token price that goes to the royalty address. 100 bps = 1%
-const ROYALTY_ADDRESS = "0xd8B808A887326F45B2D0cd999709Aa6264CeF919"; // Address that will receive the royalty
+const ROYALTY_ADDRESS = "0xf5c8a5c5A6648f243f0c0A2704f0dc3C820B7180"; // Address that will receive the royalty
 const BASE_URI = null; // only update if you want to manually set the base uri
-const PREREVEAL_TOKEN_URI = null; // only update if you want to manually set the prereveal token uri
+const PREREVEAL_TOKEN_URI = "https://ipfs.io/ipfs/bafybeierjv7gggkpdaggi3a4vooqdy3mcsouuuwomerem7nn7565hbian4"; // only update if you want to manually set the prereveal token uri
 const PRESALE_WHITELISTED_ADDRESSES = []; // only update if you want to manually set the whitelisted addresses
 
 // ** OPTIONAL **
@@ -75,8 +400,8 @@ let CONTRACT_ADDRESS = "YOUR CONTRACT ADDRESS"; // If you want to manually inclu
 // Generic Metadata is optional if you want to reveal your NFTs
 const GENERIC = true; // Set to true if you want to upload generic metas and reveal the real NFTs in the future
 const GENERIC_TITLE = CONTRACT_NAME; // Replace with what you want the generic titles to say if you want it to be different from the contract name.
-const GENERIC_DESCRIPTION = "REPLACE THIS"; // Replace with what you want the generic descriptions to say.
-const GENERIC_IMAGE = "https://ipfs.io/ipfs/QmUf9tDbkqnfHkQaMdFWSGAeXwVXWA61pFED7ypx4hcsfh"; // Replace with your generic image that will display for all NFTs pre-reveal.
+const GENERIC_DESCRIPTION = "What's Your Nugg?"; // Replace with what you want the generic descriptions to say.
+const GENERIC_IMAGE = "https://ipfs.io/ipfs/bafybeierjv7gggkpdaggi3a4vooqdy3mcsouuuwomerem7nn7565hbian4"; // Replace with your generic image that will display for all NFTs pre-reveal.
 
 // Automatically set contract address if deployed using the deployContract.js script
 try {
