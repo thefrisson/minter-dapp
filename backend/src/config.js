@@ -14,77 +14,77 @@ const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 8,
+    growEditionSizeTo: 5,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
-      { name: "Alaskan Thunderfuck Type" },
-      { name: "Alaskan Thunderfuck Potency" }
-    ],
-  }, {
-    growEditionSizeTo: 18,
-    layersOrder: [
-      { name: "Strain" },
-      { name: "Background" },
-      { name: "Apple Fritter Type" },
-      { name: "Apple Fritter Potency" }
-    ],
-  }, {
-    growEditionSizeTo: 26,
-    layersOrder: [
-      { name: "Strain" },
-      { name: "Background" },
-      { name: "Biscotti Type" },
-      { name: "Biscotti Potency" }
-    ],
-  }, {
-    growEditionSizeTo: 39,
-    layersOrder: [
-      { name: "Strain" },
-      { name: "Background" },
-      { name: "Blue Dream Type" },
-      { name: "Blue Dream Potency" }
+      { name: "Gorilla Glue Special Yellow Type" },
+      { name: "Gorilla Glue Special Yellow Potency" }
     ]
   }, {
-    growEditionSizeTo: 50,
-    layersOrder: [
-      { name: "Strain" },
-      { name: "Background" },
-      { name: "Blue Dream 2 Type" },
-      { name: "Blue Dream 2 Potency" }
-    ]
-  }, {
-    growEditionSizeTo: 60,
-    layersOrder: [
-      { name: "Strain" },
-      { name: "Background" },
-      { name: "Blueberry Type" },
-      { name: "Blueberry Potency" }
-    ]
-  }, {
-    growEditionSizeTo: 70,
-    layersOrder: [
-      { name: "Strain" },
-      { name: "Background" },
-      { name: "Bubba Kush Type" },
-      { name: "Bubba Kush Potency" }
-    ]
-  }, {
-    growEditionSizeTo: 80,
-    layersOrder: [
-      { name: "Strain" },
-      { name: "Background" },
-      { name: "Bubble Gum Type" },
-      { name: "Bubble Gum Potency" }
-    ]
-  }, {
-    growEditionSizeTo: 90,
+    growEditionSizeTo: 20,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
       { name: "Dosidos Type" },
       { name: "Dosidos Potency" }
     ]
+  }, {
+    growEditionSizeTo: 27,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Mendocino Purps Type" },
+      { name: "Mendocino Purps Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 40,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Green Crack Type" },
+      { name: "Green Crack Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 46,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Wedding Cake Special 420 Type" },
+      { name: "Wedding Cake Special 420 Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 60,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Jack Herer Type" },
+      { name: "Jack Herer Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 66,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Gushers Type" },
+      { name: "Gushers Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 80,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Northern Lights Type" },
+      { name: "Northern Lights Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 86,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Biscotti Type" },
+      { name: "Biscotti Potency" }
+    ],
   }, {
     growEditionSizeTo: 100,
     layersOrder: [
@@ -94,31 +94,23 @@ const layerConfigurations = [
       { name: "Cherry Pie 2 Potency" }
     ]
   }, {
-    growEditionSizeTo: 110,
+    growEditionSizeTo: 107,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
-      { name: "Durban Poison Type" },
-      { name: "Durban Poison Potency" }
+      { name: "Gods Gift Type" },
+      { name: "Gods Gift Potency" }
     ]
   }, {
     growEditionSizeTo: 120,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
-      { name: "Dutch Treat Type" },
-      { name: "Dutch Treat Potency" }
+      { name: "Super Lemon Haze Type" },
+      { name: "Super Lemon Haze Potency" }
     ]
   }, {
-    growEditionSizeTo: 130,
-    layersOrder: [
-      { name: "Strain" },
-      { name: "Background" },
-      { name: "Cherry Pie Type" },
-      { name: "Cherry Pie Potency" }
-    ]
-  }, {
-    growEditionSizeTo: 140,
+    growEditionSizeTo: 128,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -130,19 +122,75 @@ const layerConfigurations = [
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
+      { name: "Apple Fritter Type" },
+      { name: "Apple Fritter Potency" }
+    ],
+  }, {
+    growEditionSizeTo: 167,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Blue Dream Type" },
+      { name: "Blue Dream Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 180,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Blue Dream 2 Type" },
+      { name: "Blue Dream 2 Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 193,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Blueberry Type" },
+      { name: "Blueberry Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 206,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Bubba Kush Type" },
+      { name: "Bubba Kush Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 212,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Bubble Gum Type" },
+      { name: "Bubble Gum Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 230,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Dutch Treat Type" },
+      { name: "Dutch Treat Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 250,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Cherry Pie Type" },
+      { name: "Cherry Pie Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 270,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
       { name: "Girl Scout Cookies Type" },
       { name: "Girl Scout Cookies Potency" }
     ]
   }, {
-    growEditionSizeTo: 160,
-    layersOrder: [
-      { name: "Strain" },
-      { name: "Background" },
-      { name: "Gods Gift Type" },
-      { name: "Gods Gift Potency" }
-    ]
-  }, {
-    growEditionSizeTo: 170,
+    growEditionSizeTo: 285,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -150,7 +198,7 @@ const layerConfigurations = [
       { name: "Gorilla Glue Potency" }
     ]
   }, {
-    growEditionSizeTo: 180,
+    growEditionSizeTo: 300,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -158,23 +206,15 @@ const layerConfigurations = [
       { name: "Gorilla Glue 2 Potency" }
     ]
   }, {
-    growEditionSizeTo: 190,
+    growEditionSizeTo: 308,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
-      { name: "Gorilla Glue Special Yellow Type" },
-      { name: "Gorilla Glue Special Yellow Potency" }
-    ]
+      { name: "Alaskan Thunderfuck Type" },
+      { name: "Alaskan Thunderfuck Potency" }
+    ],
   }, {
-    growEditionSizeTo: 200,
-    layersOrder: [
-      { name: "Strain" },
-      { name: "Background" },
-      { name: "Green Crack Type" },
-      { name: "Green Crack Potency" }
-    ]
-  }, {
-    growEditionSizeTo: 210,
+    growEditionSizeTo: 320,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -182,23 +222,7 @@ const layerConfigurations = [
       { name: "Green Crack 2 Potency" }
     ]
   }, {
-    growEditionSizeTo: 220,
-    layersOrder: [
-      { name: "Strain" },
-      { name: "Background" },
-      { name: "Gushers Type" },
-      { name: "Gushers Potency" }
-    ]
-  }, {
-    growEditionSizeTo: 230,
-    layersOrder: [
-      { name: "Strain" },
-      { name: "Background" },
-      { name: "Jack Herer Type" },
-      { name: "Jack Herer Potency" }
-    ]
-  }, {
-    growEditionSizeTo: 240,
+    growEditionSizeTo: 345,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -206,7 +230,7 @@ const layerConfigurations = [
       { name: "Miracle Alien Cookies Potency" }
     ]
   }, {
-    growEditionSizeTo: 250,
+    growEditionSizeTo: 350,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -214,23 +238,7 @@ const layerConfigurations = [
       { name: "Mendo Purps Potency" }
     ]
   }, {
-    growEditionSizeTo: 260,
-    layersOrder: [
-      { name: "Strain" },
-      { name: "Background" },
-      { name: "Mendocino Purps Type" },
-      { name: "Mendocino Purps Potency" }
-    ]
-  }, {
-    growEditionSizeTo: 270,
-    layersOrder: [
-      { name: "Strain" },
-      { name: "Background" },
-      { name: "Northern Lights Type" },
-      { name: "Northern Lights Potency" }
-    ]
-  }, {
-    growEditionSizeTo: 280,
+    growEditionSizeTo: 360,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -238,7 +246,7 @@ const layerConfigurations = [
       { name: "OG Kush Potency" }
     ]
   }, {
-    growEditionSizeTo: 290,
+    growEditionSizeTo: 370,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -246,7 +254,7 @@ const layerConfigurations = [
       { name: "OG Kush 2 Potency" }
     ]
   }, {
-    growEditionSizeTo: 300,
+    growEditionSizeTo: 380,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -254,7 +262,7 @@ const layerConfigurations = [
       { name: "Purple Punch Potency" }
     ]
   }, {
-    growEditionSizeTo: 310,
+    growEditionSizeTo: 390,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -262,7 +270,7 @@ const layerConfigurations = [
       { name: "Runtz Potency" }
     ]
   }, {
-    growEditionSizeTo: 320,
+    growEditionSizeTo: 400,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -270,7 +278,7 @@ const layerConfigurations = [
       { name: "Skunk 1 Potency"}
     ]
   }, {
-    growEditionSizeTo: 330,
+    growEditionSizeTo: 410,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -278,7 +286,7 @@ const layerConfigurations = [
       { name: "SFV OG Potency" }
     ]
   }, {
-    growEditionSizeTo: 340,
+    growEditionSizeTo: 430,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -286,7 +294,7 @@ const layerConfigurations = [
       { name: "Sour Diesel Potency" }
     ]
   }, {
-    growEditionSizeTo: 350,
+    growEditionSizeTo: 450,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -294,15 +302,7 @@ const layerConfigurations = [
       { name: "Sour Diesel 2 Potency" }
     ]
   }, {
-    growEditionSizeTo: 360,
-    layersOrder: [
-      { name: "Strain" },
-      { name: "Background" },
-      { name: "Super Lemon Haze Type" },
-      { name: "Super Lemon Haze Potency" }
-    ]
-  }, {
-    growEditionSizeTo: 370,
+    growEditionSizeTo: 500,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -310,7 +310,7 @@ const layerConfigurations = [
       { name: "Silver Haze Potency" }
     ]
   }, {
-    growEditionSizeTo: 380,
+    growEditionSizeTo: 550,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -318,7 +318,7 @@ const layerConfigurations = [
       { name: "Thin Mint GSC Potency" }
     ]
   }, {
-    growEditionSizeTo: 390,
+    growEditionSizeTo: 560,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -326,15 +326,7 @@ const layerConfigurations = [
       { name: "Wedding Cake Potency" }
     ]
   }, {
-    growEditionSizeTo: 400,
-    layersOrder: [
-      { name: "Strain" },
-      { name: "Background" },
-      { name: "Wedding Cake Special 420 Type" },
-      { name: "Wedding Cake Special 420 Potency" }
-    ]
-  }, {
-    growEditionSizeTo: 410,
+    growEditionSizeTo: 562,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -342,7 +334,7 @@ const layerConfigurations = [
       { name: "Zkittlez Potency" }
     ]
   }, {
-    growEditionSizeTo: 420,
+    growEditionSizeTo: 575,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
