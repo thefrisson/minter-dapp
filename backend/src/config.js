@@ -86,20 +86,12 @@ const layerConfigurations = [
       { name: "Biscotti Potency" }
     ],
   }, {
-    growEditionSizeTo: 100,
+    growEditionSizeTo: 107,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
       { name: "Cherry Pie 2 Type" },
       { name: "Cherry Pie 2 Potency" }
-    ]
-  }, {
-    growEditionSizeTo: 107,
-    layersOrder: [
-      { name: "Strain" },
-      { name: "Background" },
-      { name: "Gods Gift Type" },
-      { name: "Gods Gift Potency" }
     ]
   }, {
     growEditionSizeTo: 120,
@@ -127,14 +119,6 @@ const layerConfigurations = [
     ],
   }, {
     growEditionSizeTo: 167,
-    layersOrder: [
-      { name: "Strain" },
-      { name: "Background" },
-      { name: "Blue Dream Type" },
-      { name: "Blue Dream Potency" }
-    ]
-  }, {
-    growEditionSizeTo: 180,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -238,7 +222,7 @@ const layerConfigurations = [
       { name: "Mendo Purps Potency" }
     ]
   }, {
-    growEditionSizeTo: 360,
+    growEditionSizeTo: 365,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -246,7 +230,7 @@ const layerConfigurations = [
       { name: "OG Kush Potency" }
     ]
   }, {
-    growEditionSizeTo: 370,
+    growEditionSizeTo: 380,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -254,7 +238,7 @@ const layerConfigurations = [
       { name: "OG Kush 2 Potency" }
     ]
   }, {
-    growEditionSizeTo: 380,
+    growEditionSizeTo: 395,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -262,7 +246,7 @@ const layerConfigurations = [
       { name: "Purple Punch Potency" }
     ]
   }, {
-    growEditionSizeTo: 390,
+    growEditionSizeTo: 410,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -270,7 +254,7 @@ const layerConfigurations = [
       { name: "Runtz Potency" }
     ]
   }, {
-    growEditionSizeTo: 400,
+    growEditionSizeTo: 430,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -278,7 +262,7 @@ const layerConfigurations = [
       { name: "Skunk 1 Potency"}
     ]
   }, {
-    growEditionSizeTo: 410,
+    growEditionSizeTo: 445,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -286,7 +270,7 @@ const layerConfigurations = [
       { name: "SFV OG Potency" }
     ]
   }, {
-    growEditionSizeTo: 430,
+    growEditionSizeTo: 465,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -294,7 +278,7 @@ const layerConfigurations = [
       { name: "Sour Diesel Potency" }
     ]
   }, {
-    growEditionSizeTo: 450,
+    growEditionSizeTo: 482,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -302,7 +286,7 @@ const layerConfigurations = [
       { name: "Sour Diesel 2 Potency" }
     ]
   }, {
-    growEditionSizeTo: 500,
+    growEditionSizeTo: 515,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -310,7 +294,7 @@ const layerConfigurations = [
       { name: "Silver Haze Potency" }
     ]
   }, {
-    growEditionSizeTo: 550,
+    growEditionSizeTo: 560,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -318,7 +302,7 @@ const layerConfigurations = [
       { name: "Thin Mint GSC Potency" }
     ]
   }, {
-    growEditionSizeTo: 560,
+    growEditionSizeTo: 570,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -326,7 +310,7 @@ const layerConfigurations = [
       { name: "Wedding Cake Potency" }
     ]
   }, {
-    growEditionSizeTo: 562,
+    growEditionSizeTo: 582,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
@@ -334,12 +318,28 @@ const layerConfigurations = [
       { name: "Zkittlez Potency" }
     ]
   }, {
-    growEditionSizeTo: 575,
+    growEditionSizeTo: 600,
     layersOrder: [
       { name: "Strain" },
       { name: "Background" },
       { name: "Chemdawg Type" },
       { name: "Chemdawg Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 625,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Blue Dream Type" },
+      { name: "Blue Dream Potency" }
+    ]
+  }, {
+    growEditionSizeTo: 640,
+    layersOrder: [
+      { name: "Strain" },
+      { name: "Background" },
+      { name: "Gods Gift Type" },
+      { name: "Gods Gift Potency" }
     ]
   },
 ];
@@ -366,8 +366,8 @@ const LIMIT = 2; // Your API key rate limit
 const CHAIN = 'rinkeby'; // only rinkeby or polygon
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
-const CONTRACT_NAME = 'Blockchain OG';
-const CONTRACT_SYMBOL = 'BOG';
+const CONTRACT_NAME = 'Blockchain OG Expressions Test';
+const CONTRACT_SYMBOL = 'BOGE';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0xf5c8a5c5A6648f243f0c0A2704f0dc3C820B7180';
 const TREASURY_ADDRESS = '0xf5c8a5c5A6648f243f0c0A2704f0dc3C820B7180';

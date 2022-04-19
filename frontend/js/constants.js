@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to Blockchain OG. Now minting NFT Nugg Expressions 🔥";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Blockchain OG NFT project is a fresh take on cannabis, a ubiquitous plant that has come to be considered a prized possession in many cases. Our collection of Nugg Expressions supports the idea that no two buds are the exact same, and can be beautiful on their own when given the chance to express themselves. Our goal is to build a community that creates one of the first cannabis strains through democracy and blockchain technologies. To introduce ourselves, we will have a 2-part NFT Drop, with Part 1 starting 4/20/2022 at 4:20 PM ET and Part 2 starting on Earth Day, 4/22 at Noon ET. From a batch of 4200, we will be dropping 420 NFTs on 4/20 and 220 on Earth Day, for a total of 640. Join The Movement!!!';
+const welcome_p = 'The Blockchain OG NFT project is a fresh take on cannabis. Our collection of Nugg Expressions supports the idea that no two buds are the exact same, and can be beautiful on their own when given the chance to express themselves. Our goal is to build a community that creates one of the first cannabis strains through democracy and blockchain technologies. To introduce ourselves, we will have a 2-part NFT Drop, with Part 1 starting 4/20/2022 at 4:20 PM ET and Part 2 starting on Earth Day, 4/22 at Noon ET. From a batch of 4200, we will be dropping 420 NFTs on 4/20 and 220 more on Earth Day, for a total of 640. Join The Movement!!!';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
