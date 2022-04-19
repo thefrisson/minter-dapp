@@ -371,7 +371,7 @@ const CONTRACT_SYMBOL = 'BOGE';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0xf5c8a5c5A6648f243f0c0A2704f0dc3C820B7180';
 const TREASURY_ADDRESS = '0xf5c8a5c5A6648f243f0c0A2704f0dc3C820B7180';
-const MAX_SUPPLY = 4200; //Matic: 420000000; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
+const MAX_SUPPLY = 420000; //Matic: 420000000; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
 const MINT_PRICE = 0.001; //Matic: 42.0; // Minting price per NFT. Rinkeby = ETH, Polygon = MATIC. CANNOT BE UPDATED!
 const TOKENS_PER_MINT = 10; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 

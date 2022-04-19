@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Now whitelisting NFT Nugg Expressions 🔥";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Blockchain OG NFT project is a fresh take on cannabis. Our collection of Nugg Expressions supports the idea that no two buds are the exact same, and can be beautiful on their own when given the chance to express themselves. Join our mission to create a collaborative weed strain!!';
+const welcome_p = 'Blockchain OG is an Online Grown community of cannabis lovers that want the best new tips and culture, as well as a platform for creating new strains democratically. Please join our discord to be a part of the whitelist.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
