@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #88",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeierkkrayl57womtvxptmkcfp6tt47rh4g5d3cqxzmkqhdht63z7d4",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Northern Lights"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Spring Growth"
+    },
+    {
+      "trait_type": "Sour Diesel 2 Type",
+      "value": "Mid"
+    },
+    {
+      "trait_type": "Sour Diesel 2 Potency",
+      "value": "57"
+    }
+  ],
+  "dna": "c34a5f391f32ffbf183a403ed35f99e54429f80e",
+  "edition": 88,
+  "external_url": "https://blockchainog.art",
+  "date": 1650332409078,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

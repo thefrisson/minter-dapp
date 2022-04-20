@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #39",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeibbxf2rguqhbhlzszr6syjxdywvseqobm4ymas6ry2ud4iuwn6gvy",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Northern Lights"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Seafoam"
+    },
+    {
+      "trait_type": "Bubble Gum Type",
+      "value": "Loud"
+    },
+    {
+      "trait_type": "Bubble Gum Potency",
+      "value": "76"
+    }
+  ],
+  "dna": "95158f8ae9728c33f929a9e10a8b049ec933a9bb",
+  "edition": 39,
+  "external_url": "https://blockchainog.art",
+  "date": 1650331441234,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

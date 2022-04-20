@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #22",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeiay6ixlm3m42iqhd2odky2pw3fxs73xrckfe2gogc6idjtzcbqrtm",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Strawberry Cough"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Blue Dream Type",
+      "value": "Exotic"
+    },
+    {
+      "trait_type": "Blue Dream Potency",
+      "value": "84"
+    }
+  ],
+  "dna": "a95dda0848b796c551c64f1934e784a5e5a03036",
+  "edition": 22,
+  "external_url": "https://blockchainog.art",
+  "date": 1650332920789,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

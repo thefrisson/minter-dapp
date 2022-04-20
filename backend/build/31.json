@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #31",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeicghk4z3tvftf5meepgsxmvopdw3546fc5rj55pfozbnkrzylsfui",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Dosidos"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Grass Green"
+    },
+    {
+      "trait_type": "Green Crack Type",
+      "value": "Good"
+    },
+    {
+      "trait_type": "Green Crack Potency",
+      "value": "68"
+    }
+  ],
+  "dna": "ccf34fdb08bac71145503e1604847ed4262c0053",
+  "edition": 31,
+  "external_url": "https://blockchainog.art",
+  "date": 1650330485241,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

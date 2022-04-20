@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #13",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeias5nradyu6ih7v3ts4b5a2gxia36z2cqcb7iqrowqz63xrmkcw3m",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Girl Scout Cookies"
+    },
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Wedding Cake Type",
+      "value": "Exotic"
+    },
+    {
+      "trait_type": "Wedding Cake Potency",
+      "value": "88"
+    }
+  ],
+  "dna": "963807b63dbabd21fad2fcddbeef74431c771f09",
+  "edition": 13,
+  "external_url": "https://blockchainog.art",
+  "date": 1650332730355,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

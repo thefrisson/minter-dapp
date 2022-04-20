@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #49",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeigzmqcn2rnagdcjdfltr3u35m44x6u24npn5ncyeut7qck3clm6te",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "OG Kush"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Seafoam"
+    },
+    {
+      "trait_type": "Blue Dream Type",
+      "value": "Exotic"
+    },
+    {
+      "trait_type": "Blue Dream Potency",
+      "value": "88"
+    }
+  ],
+  "dna": "704bd8eed8f48616cf54a01a769c5088d3107567",
+  "edition": 49,
+  "external_url": "https://blockchainog.art",
+  "date": 1650332926608,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #38",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeifibrneajmse47b4rfxln4zinbyfnpyflwajowpde3mifp5ghg3na",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Alaskan Thunderfuck"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Spring Growth"
+    },
+    {
+      "trait_type": "Gorilla Glue 2 Type",
+      "value": "Exotic"
+    },
+    {
+      "trait_type": "Gorilla Glue 2 Potency",
+      "value": "88"
+    }
+  ],
+  "dna": "01d95e98083196b31980c3ec128a4eefdeaf26d7",
+  "edition": 38,
+  "external_url": "https://blockchainog.art",
+  "date": 1650331777975,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

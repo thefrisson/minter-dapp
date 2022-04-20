@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #67",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeiesduoe5gbxdwyhu5sbjugetx7ur6o63m4saapbzlvj7ohczb4f2q",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "OG Kush"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Spring Growth"
+    },
+    {
+      "trait_type": "Purple Punch Type",
+      "value": "Mid"
+    },
+    {
+      "trait_type": "Purple Punch Potency",
+      "value": "51"
+    }
+  ],
+  "dna": "d692a4ce3bda81dd6293145b7a793e8b2418d4b7",
+  "edition": 67,
+  "external_url": "https://blockchainog.art",
+  "date": 1650332103151,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

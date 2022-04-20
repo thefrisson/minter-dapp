@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #10",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeid5zqz6jbxxnwxq3u4oruf63sgs4wwf6gpk7ivutvevmfat3htbaq",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Cherry Pie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Murky Green"
+    },
+    {
+      "trait_type": "Miracle Alien Cookies Type",
+      "value": "Loud"
+    },
+    {
+      "trait_type": "Miracle Alien Cookies Potency",
+      "value": "76"
+    }
+  ],
+  "dna": "5e2a4d57a319056e4edba8ec62ffd03ea1d6cd46",
+  "edition": 10,
+  "external_url": "https://blockchainog.art",
+  "date": 1650331921240,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

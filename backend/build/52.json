@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #52",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeiejhf4lsu6sl5q4o6hn7knfrv3a42secqmuyyvlshkuqgenztfsza",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Biscotti"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Grass Green"
+    },
+    {
+      "trait_type": "Dosidos Type",
+      "value": "Good"
+    },
+    {
+      "trait_type": "Dosidos Potency",
+      "value": "69"
+    }
+  ],
+  "dna": "a74d277c6e24ec4f3d7d353e1da99d8877d8f4c8",
+  "edition": 52,
+  "external_url": "https://blockchainog.art",
+  "date": 1650330346371,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #85",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeidrzwsnnqi4pwmce2j2ur5ocwmbfh3wvj5hawi6km5j46r24c2roa",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Sour Diesel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Muted Green"
+    },
+    {
+      "trait_type": "Super Lemon Haze Type",
+      "value": "Good"
+    },
+    {
+      "trait_type": "Super Lemon Haze Potency",
+      "value": "67"
+    }
+  ],
+  "dna": "de2eeafb682c5e8fa71ec4f38f6e84f929b533de",
+  "edition": 85,
+  "external_url": "https://blockchainog.art",
+  "date": 1650330950334,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

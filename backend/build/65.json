@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #65",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeicn5dw5kfllzbm5vwrdwl2ddfxsat5xxvxi3a3ftjzn4qc2f2rff4",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Girl Scout Cookies"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Muted Green"
+    },
+    {
+      "trait_type": "Cherry Pie Type",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Cherry Pie Potency",
+      "value": "39"
+    }
+  ],
+  "dna": "5b2c3bf4edba413823c24e7b141df01e2fafd309",
+  "edition": 65,
+  "external_url": "https://blockchainog.art",
+  "date": 1650331544838,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

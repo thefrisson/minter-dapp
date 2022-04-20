@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #32",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeie4ufomfco2qia7f5f6yxo3ylswremk5m226ydd4ihqgol6csvdty",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Sundae Driver"
+    },
+    {
+      "trait_type": "Background",
+      "value": "River Green"
+    },
+    {
+      "trait_type": "Green Crack Type",
+      "value": "Good"
+    },
+    {
+      "trait_type": "Green Crack Potency",
+      "value": "64"
+    }
+  ],
+  "dna": "7095887e33745fa774d114002e0f8b7cb208ecdb",
+  "edition": 32,
+  "external_url": "https://blockchainog.art",
+  "date": 1650330465703,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

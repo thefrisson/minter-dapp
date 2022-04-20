@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #63",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeigsgq5dxucxcy56hoepgp5rmpzbs5jt5a7rpnpkgk6g6pqefx4aty",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Bubble Gum"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea Green"
+    },
+    {
+      "trait_type": "Thin Mint GSC Type",
+      "value": "Good"
+    },
+    {
+      "trait_type": "Thin Mint GSC Potency",
+      "value": "67"
+    }
+  ],
+  "dna": "bd6532433841e07cad21e68228c9f94aee40ae6b",
+  "edition": 63,
+  "external_url": "https://blockchainog.art",
+  "date": 1650332599021,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #18",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeidugymxvdrxcrbuzihgucxwesws42n6hi3xexcl6cuuax777bwh7q",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Biscotti"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Muted Green"
+    },
+    {
+      "trait_type": "GG4 Type",
+      "value": "The Best"
+    },
+    {
+      "trait_type": "GG4 Potency",
+      "value": "97"
+    }
+  ],
+  "dna": "37f2916c281e54439040201716d42c3f7c37c264",
+  "edition": 18,
+  "external_url": "https://blockchainog.art",
+  "date": 1650331025244,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

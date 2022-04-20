@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #14",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeiaml6427gqei74p4rd7wwrb4ugl4nhd7uj2pogpp4esfdkhml2yeu",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Sundae Driver"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Spring Growth"
+    },
+    {
+      "trait_type": "Apple Fritter Type",
+      "value": "Loud"
+    },
+    {
+      "trait_type": "Apple Fritter Potency",
+      "value": "72"
+    }
+  ],
+  "dna": "e568a8cc189c231b1aacc344b9998517c90d61f2",
+  "edition": 14,
+  "external_url": "https://blockchainog.art",
+  "date": 1650331042690,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #53",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeib3s5lfrmfjjrwiv3iq4dpy422soklcc546eyqykikgq5k33j6r2u",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Sundae Driver"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Purple Punch Type",
+      "value": "Mid"
+    },
+    {
+      "trait_type": "Purple Punch Potency",
+      "value": "59"
+    }
+  ],
+  "dna": "60ee74925f9e321839eed4fa05f411e3f05714a1",
+  "edition": 53,
+  "external_url": "https://blockchainog.art",
+  "date": 1650332099601,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

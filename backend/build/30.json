@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #30",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeigay6yqghrdkrh7tjt5hazv34qnithhyirm7u2jxmassfxacbtjhu",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Green Crack"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Vested Green"
+    },
+    {
+      "trait_type": "Apple Fritter Type",
+      "value": "Loud"
+    },
+    {
+      "trait_type": "Apple Fritter Potency",
+      "value": "79"
+    }
+  ],
+  "dna": "a93e686fe3d8461e0ebd7d826b063779d8c61a2a",
+  "edition": 30,
+  "external_url": "https://blockchainog.art",
+  "date": 1650331109758,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

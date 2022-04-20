@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #15",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeidkhpwgclyxjxb56vsrqx2rzp6oud56gyrvdyrywekykibkuahkeq",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Lambs Bread"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Murky Green"
+    },
+    {
+      "trait_type": "Silver Haze Type",
+      "value": "Loud"
+    },
+    {
+      "trait_type": "Silver Haze Potency",
+      "value": "80"
+    }
+  ],
+  "dna": "9b7e3cb32561674e8e411b46f4a90c0927113bfb",
+  "edition": 15,
+  "external_url": "https://blockchainog.art",
+  "date": 1650332472437,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

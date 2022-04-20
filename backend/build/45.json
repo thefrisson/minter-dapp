@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #45",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeig5vsvaogoxlfn6zcxpts2myaxdd7fs3iy5sjkzbl2tgkvnt2pagu",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Mendo Purps"
+    },
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "OG Kush Type",
+      "value": "Good"
+    },
+    {
+      "trait_type": "OG Kush Potency",
+      "value": "67"
+    }
+  ],
+  "dna": "92881eced4ab560c9b60991f7f21bdfbc0ac311f",
+  "edition": 45,
+  "external_url": "https://blockchainog.art",
+  "date": 1650331989786,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

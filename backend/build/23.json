@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #23",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeiaupvsmzg3lacfkeawxe6ttzklztgsdyucrksrv3iozv6bf7j7pde",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Blue Dream"
+    },
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Sour Diesel Type",
+      "value": "Good"
+    },
+    {
+      "trait_type": "Sour Diesel Potency",
+      "value": "65"
+    }
+  ],
+  "dna": "23c5a03d3bc2ff3dd5b954a23570d03347834aea",
+  "edition": 23,
+  "external_url": "https://blockchainog.art",
+  "date": 1650332324399,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

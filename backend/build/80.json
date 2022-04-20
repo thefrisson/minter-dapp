@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #80",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeiaox35vnnmluiwkc5d4rjjtkbgtlglfetda4ut7dmn37hka4zjoee",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Apple Fritter"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Murky Green"
+    },
+    {
+      "trait_type": "Gorilla Glue Special Yellow Type",
+      "value": "The Best"
+    },
+    {
+      "trait_type": "Gorilla Glue Special Yellow Potency",
+      "value": "99"
+    }
+  ],
+  "dna": "c7758b80af6aaa955f1f9c05f0cf6c5a1aec8518",
+  "edition": 80,
+  "external_url": "https://blockchainog.art",
+  "date": 1650330307640,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

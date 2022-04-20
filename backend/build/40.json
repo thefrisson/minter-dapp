@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #40",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeiacufjvnpneq2pjqincccvnmro24pavnkbi7khtpactcmyocnp5gi",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Bubble Gum"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Seafoam"
+    },
+    {
+      "trait_type": "Blueberry Type",
+      "value": "Good"
+    },
+    {
+      "trait_type": "Blueberry Potency",
+      "value": "61"
+    }
+  ],
+  "dna": "03d066cff85641a728cb91278b64dac782bde347",
+  "edition": 40,
+  "external_url": "https://blockchainog.art",
+  "date": 1650331314451,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #71",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeidhc6po736ul6zbn65wnile7uetokijcujgufoumqpoz63665rcem",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Alaskan Thunderfuck"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Muted Green"
+    },
+    {
+      "trait_type": "Blueberry Type",
+      "value": "Good"
+    },
+    {
+      "trait_type": "Blueberry Potency",
+      "value": "69"
+    }
+  ],
+  "dna": "e258a1b573b75425fb1d27ef3012acdffd2f4202",
+  "edition": 71,
+  "external_url": "https://blockchainog.art",
+  "date": 1650331294704,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

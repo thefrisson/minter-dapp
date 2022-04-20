@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #44",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeig2unr6glh6dfga3762tw7daa3f4vdxwfp62b2uxori6ysgzco4ny",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Girl Scout Cookies"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Murky Green"
+    },
+    {
+      "trait_type": "Jack Herer Type",
+      "value": "Loud"
+    },
+    {
+      "trait_type": "Jack Herer Potency",
+      "value": "74"
+    }
+  ],
+  "dna": "5647c8d746eb86dddae2ddd6755605b87988f455",
+  "edition": 44,
+  "external_url": "https://blockchainog.art",
+  "date": 1650330644802,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

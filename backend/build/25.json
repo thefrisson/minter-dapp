@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #25",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeieynrdcg7yeeqw6cxgobllz2dk3lzqkh4xzwi5vneoijnaeedlluu",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Lambs Bread"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Grass Green"
+    },
+    {
+      "trait_type": "Gorilla Glue Type",
+      "value": "Loud"
+    },
+    {
+      "trait_type": "Gorilla Glue Potency",
+      "value": "71"
+    }
+  ],
+  "dna": "4357ec89c17746aca7a44a46de9792526433d1a2",
+  "edition": 25,
+  "external_url": "https://blockchainog.art",
+  "date": 1650331688021,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

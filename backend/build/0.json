@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #0",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeiejtz2bebfbsnig3nigmsed54sn2seyp6wxgbvxaxz3jcwwl5ro7m",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Gushers"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Seafoam"
+    },
+    {
+      "trait_type": "Cherry Pie Type",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Cherry Pie Potency",
+      "value": "17"
+    }
+  ],
+  "dna": "95b0ba194505f6d1ab73feeb01bf81bb55c6dda7",
+  "edition": 0,
+  "external_url": "https://blockchainog.art",
+  "date": 1650331569298,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

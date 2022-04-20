@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #48",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeiayre5n7vpblvcfnf3qjbzw75xrhqmtbotmaulurplbym7r2biug4",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Sundae Driver"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea Green"
+    },
+    {
+      "trait_type": "Jack Herer Type",
+      "value": "Loud"
+    },
+    {
+      "trait_type": "Jack Herer Potency",
+      "value": "77"
+    }
+  ],
+  "dna": "5e90258a3f4c3d0f3123a8469d61b2801f3fecd1",
+  "edition": 48,
+  "external_url": "https://blockchainog.art",
+  "date": 1650330618637,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #9",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeif3tcehh6b5chpv6dosskg6q5mgbtca2q7q4fxrgqdgla3wiuvfpa",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Thin Mint GSC"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Seafoam"
+    },
+    {
+      "trait_type": "Girl Scout Cookies Type",
+      "value": "The Best"
+    },
+    {
+      "trait_type": "Girl Scout Cookies Potency",
+      "value": "98"
+    }
+  ],
+  "dna": "dfbbbf05d2972f62573f4e178518da6e08bbf96a",
+  "edition": 9,
+  "external_url": "https://blockchainog.art",
+  "date": 1650331630328,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

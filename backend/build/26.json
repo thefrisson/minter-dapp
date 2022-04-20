@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #26",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeifwdqlibf34nz3uiqqqxstfusdcxff4rwwxkmb7w7xh4eeysqjksi",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Gushers"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea Green"
+    },
+    {
+      "trait_type": "Northern Lights Type",
+      "value": "Loud"
+    },
+    {
+      "trait_type": "Northern Lights Potency",
+      "value": "80"
+    }
+  ],
+  "dna": "1030884ce96a66d73a0e370367bf818fc7341f6c",
+  "edition": 26,
+  "external_url": "https://blockchainog.art",
+  "date": 1650330720178,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

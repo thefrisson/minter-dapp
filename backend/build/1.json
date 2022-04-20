@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #1",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeidv5scshywwzo5segmq4zyo4hcroc3ve45zg47js2mvn7f6oqznt4",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Dutch Treat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea Green"
+    },
+    {
+      "trait_type": "Green Crack 2 Type",
+      "value": "Mid"
+    },
+    {
+      "trait_type": "Green Crack 2 Potency",
+      "value": "55"
+    }
+  ],
+  "dna": "7e02528f5613d6c58ab7fd24bc0c917aaae74063",
+  "edition": 1,
+  "external_url": "https://blockchainog.art",
+  "date": 1650331876476,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

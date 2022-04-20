@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain OG #77",
+  "description": "Cannabis infused NFTs---Join our collaborative effort to create one of the first community based strains on the blockchain!",
+  "image": "https://ipfs.io/ipfs/bafybeif57gzbe5ketpjdcc3twm2yo3hczvtbnleoby53doqrdatxhpoqcu",
+  "attributes": [
+    {
+      "trait_type": "Strain",
+      "value": "Cherry Pie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Murky Green"
+    },
+    {
+      "trait_type": "Thin Mint GSC Type",
+      "value": "Good"
+    },
+    {
+      "trait_type": "Thin Mint GSC Potency",
+      "value": "67"
+    }
+  ],
+  "dna": "1b0d51a666c3cf24e8426bbd16ccbdd715306d4a",
+  "edition": 77,
+  "external_url": "https://blockchainog.art",
+  "date": 1650332688579,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}
