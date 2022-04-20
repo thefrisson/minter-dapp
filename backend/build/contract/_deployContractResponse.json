@@ -1,8 +1,0 @@
-{
-  "response": "OK",
-  "chain": "rinkeby",
-  "transaction_hash": "0x37702f5c4182a234966d7404071385c6850ebbf4e86d9b103be1e18524942b09",
-  "transaction_external_url": "https://rinkeby.etherscan.io/tx/0x37702f5c4182a234966d7404071385c6850ebbf4e86d9b103be1e18524942b09",
-  "owner_address": "0xf5c8a5c5A6648f243f0c0A2704f0dc3C820B7180",
-  "name": "Blockchain OG Expressions Test"
-}
